@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 🌱 Undergraduate student documenting my journey in tech and creating! </br>
 😄 Studying Artificial Intelligence & Human Responsibility at San Diego State University </br>
