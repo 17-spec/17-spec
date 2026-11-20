@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🌱 Undergraduate student documenting my journey in tech and creating!
-😄 Studying Artificial Intelligence & Human Responsibility at San Diego State University
-🔭 Working on projects of interest to build my skills 
-💬 Currently learning about web development, design, machine learning, and more!
+🌱 Undergraduate student documenting my journey in tech and creating! </br>
+😄 Studying Artificial Intelligence & Human Responsibility at San Diego State University </br>
+🔭 Working on projects of interest to build my skills </br>
+💬 Currently learning about web development, design, machine learning, and more! </br>
 <!--
 **17-spec/17-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
